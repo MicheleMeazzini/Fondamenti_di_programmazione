@@ -1,3 +1,0 @@
-C:/Users/meazz/CLionProjects/Pretest/Monitor_App2_2019/cmake-build-debug/CMakeFiles/Monitor_App2_2019.dir
-C:/Users/meazz/CLionProjects/Pretest/Monitor_App2_2019/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/meazz/CLionProjects/Pretest/Monitor_App2_2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir
