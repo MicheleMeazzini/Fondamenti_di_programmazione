@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/meazz/CLionProjects/Playlist_App4_2019/compito.cpp
+compito.h
+C:/Users/meazz/CLionProjects/Playlist_App4_2019/compito.h
+
+C:/Users/meazz/CLionProjects/Playlist_App4_2019/compito.h
+iostream
+-
+cstring
+-
+
+C:/Users/meazz/CLionProjects/Playlist_App4_2019/main.cpp
+compito.h
+C:/Users/meazz/CLionProjects/Playlist_App4_2019/compito.h
+

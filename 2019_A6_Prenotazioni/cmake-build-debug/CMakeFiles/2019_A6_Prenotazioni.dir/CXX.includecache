@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/meazz/CLionProjects/2019_A6_Prenotazioni/compito.cpp
+compito.h
+C:/Users/meazz/CLionProjects/2019_A6_Prenotazioni/compito.h
+
+C:/Users/meazz/CLionProjects/2019_A6_Prenotazioni/compito.h
+iostream
+-
+
+C:/Users/meazz/CLionProjects/2019_A6_Prenotazioni/main.cpp
+iostream
+-
+compito.h
+C:/Users/meazz/CLionProjects/2019_A6_Prenotazioni/compito.h
+
