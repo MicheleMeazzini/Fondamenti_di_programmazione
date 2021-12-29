@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/meazz/CLionProjects/2021_A1_Nastro/compito.cpp
+compito.h
+C:/Users/meazz/CLionProjects/2021_A1_Nastro/compito.h
+
+C:/Users/meazz/CLionProjects/2021_A1_Nastro/compito.h
+iostream
+-
+cstring
+-
+
+C:/Users/meazz/CLionProjects/2021_A1_Nastro/main.cpp
+iostream
+-
+compito.h
+C:/Users/meazz/CLionProjects/2021_A1_Nastro/compito.h
+
