@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/meazz/CLionProjects/Simulazione_esame3_puzzlebobble/compito.cpp
+iostream
+-
+compito.h
+C:/Users/meazz/CLionProjects/Simulazione_esame3_puzzlebobble/compito.h
+
+C:/Users/meazz/CLionProjects/Simulazione_esame3_puzzlebobble/compito.h
+
