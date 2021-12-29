@@ -1,0 +1,3 @@
+C:/Users/meazz/CLionProjects/Simulazione esame1 Cinema/cmake-build-debug/CMakeFiles/Simulazione_esame1_Cinema.dir
+C:/Users/meazz/CLionProjects/Simulazione esame1 Cinema/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/meazz/CLionProjects/Simulazione esame1 Cinema/cmake-build-debug/CMakeFiles/rebuild_cache.dir

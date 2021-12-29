@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/meazz/CLionProjects/Simulazione esame1 Cinema/compito.h
+
+C:/Users/meazz/CLionProjects/Simulazione esame1 Cinema/main.cpp
+iostream
+-
+compito.h
+C:/Users/meazz/CLionProjects/Simulazione esame1 Cinema/compito.h
+
