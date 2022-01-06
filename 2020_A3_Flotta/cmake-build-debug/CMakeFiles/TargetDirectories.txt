@@ -1,0 +1,3 @@
+C:/Users/meazz/CLionProjects/2020_A3_Flotta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/meazz/CLionProjects/2020_A3_Flotta/cmake-build-debug/CMakeFiles/2020_A3_Flotta.dir
+C:/Users/meazz/CLionProjects/2020_A3_Flotta/cmake-build-debug/CMakeFiles/edit_cache.dir
