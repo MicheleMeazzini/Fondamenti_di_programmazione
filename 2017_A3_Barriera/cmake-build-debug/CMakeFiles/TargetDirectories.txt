@@ -1,0 +1,3 @@
+C:/Users/meazz/CLionProjects/2017_A3_Barriera/cmake-build-debug/CMakeFiles/2017_A3_Barriera.dir
+C:/Users/meazz/CLionProjects/2017_A3_Barriera/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/meazz/CLionProjects/2017_A3_Barriera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
