@@ -1,0 +1,3 @@
+C:/Users/meazz/CLionProjects/2020_A1_ToDoList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/meazz/CLionProjects/2020_A1_ToDoList/cmake-build-debug/CMakeFiles/2020_A1_ToDoList.dir
+C:/Users/meazz/CLionProjects/2020_A1_ToDoList/cmake-build-debug/CMakeFiles/edit_cache.dir

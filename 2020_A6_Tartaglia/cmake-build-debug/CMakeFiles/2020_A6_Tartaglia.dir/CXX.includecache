@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/meazz/CLionProjects/2020_A6_Tartaglia/compito.cpp
+compito.h
+C:/Users/meazz/CLionProjects/2020_A6_Tartaglia/compito.h
+
+C:/Users/meazz/CLionProjects/2020_A6_Tartaglia/compito.h
+iostream
+-
+
+C:/Users/meazz/CLionProjects/2020_A6_Tartaglia/main.cpp
+compito.h
+C:/Users/meazz/CLionProjects/2020_A6_Tartaglia/compito.h
+
