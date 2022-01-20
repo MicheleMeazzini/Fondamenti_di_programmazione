@@ -1,0 +1,44 @@
+
+Lista di inizializzazione
+
+	- per inizializzare costanti che si trovano all'interno della classe
+	- per inizializzare reference interni alla classe
+	- se alcune classi secondarie hanno costruttori con argomenti formali, per la classe principale il costruttore deve avere la lista di inzializzazione
+
+Se ho una classe con all'inerno altre classi e richiamo il costruttore della classe principale:
+
+	- viene richiamato il costruttore delle classi secondarie nell'ordine in cui sono poste
+ 	- viene richiamato il costruttore della classe principale
+	Per il distruttore il procedimento è inverso
+
+Literal di tipo classe
+	
+	class vett[5] = {class(2), class(3.2), class()} 
+	In questo caso devo definire un costruttore per class con argomento int, uno con argomento double e uno senza argomenti
+
+Classi di Memorizzazione
+
+	Automatica: Sono gli oggetti che vengono dichiarati all'interno di un blocco
+	Statica: Sono gli oggetti che vengono dichiarati al di fuori di una funzione
+	Dinamica: Sono gli oggetti che vengono creati sullo heap con l'operatore NEW
+
+Keyword STATIC
+
+	Collegamento esterno diventa collegamento interno
+	Usata all interno di un blocco definisce un oggetto statico (di classe di memorizzazione statica anzichè automatica)
+	Usata nelle classi può rendere una variabile globale
+	Per memorizzare quante volte è stata chiamata una funzione: dichiaro una variabile static al di fuori e la incremento
+	all'interno del corpo della funzione.
+
+Costruttore di copia
+
+	Creo una classe partendo da una classe gia esistente
+	Una funzione ritorna un riferimento al tipo classe
+	Passo una classe come parametro formale a una funzione
+
+Se ho due costruttori, uno senza parametri (class(){}) e uno con parametro con valore di default (class(int i = 20){}) si crea un errore nel caso in cui richiamassi nel main
+il costruttore senza parametri perche il compilatore non saprebbe quale dei due utilizzare (ambiguità).
+
+Il reference di una variabile const deve per forza essere const
+
+Se una funzione ritorna un reference, puo essere modificato cout << ++f(); stampa il valore ritornato da f incrementato di 1
